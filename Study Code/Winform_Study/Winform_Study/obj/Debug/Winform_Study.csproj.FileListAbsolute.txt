@@ -1,0 +1,12 @@
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\bin\Debug\Winform_Study.exe.config
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\bin\Debug\Winform_Study.exe
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\bin\Debug\Winform_Study.pdb
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.csproj.AssemblyReference.cache
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.csproj.SuggestedBindingRedirects.cache
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.Properties.Resources.resources
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.csproj.GenerateResource.cache
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.csproj.CoreCompileInputs.cache
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.exe
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.pdb
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.UserControl1.resources
+D:\temp\00_Programing\Petrichor_Revit\Study Code\Winform_Study\Winform_Study\obj\Debug\Winform_Study.fMain.resources
