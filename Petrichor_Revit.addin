@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>KCafe</Name>
+		<Assembly>D:\temp\SynologyDrive\Programimg\01_CSharp\02_Revit\HONGlize\HONGlize\bin\Debug\HONGlize.dll</Assembly>
+		<ClientId>5F7DAB43-7DA7-427A-87A7-58DEB3F6D781</ClientId>
+		<FullClassName>HONGlize.Application</FullClassName>
+		<VendorId>홍한현 책임</VendorId>
+		<VendorDescription>KCIM직원들의 커피 한잔을 위하여</VendorDescription>
+	</AddIn>
+</RevitAddIns>
